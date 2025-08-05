@@ -1,0 +1,29 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de Office
+~$*
+*.tmp
+
+# Archivos de caché
+*.log
+
+# Archivos de editor
+.vscode/
+.idea/
+
+# Archivos de bases de datos que no quieras subir
+*.sqlite
+*.sql.bak
+
+# Archivos ZIP o comprimidos
+*.zip
+*.rar
+
+# Copias de seguridad
+*.bak
+
+# Archivos de sistema ocultos
+ehthumbs.db
